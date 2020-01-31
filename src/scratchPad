@@ -1,0 +1,38 @@
+
+
+
+<body>                           ------> App.js
+
+   <header> Home </header>       ------> Componenet Header.js
+
+
+   <div className = ??? >        -------> Component Body.js
+
+      <div>
+         <h2> Marion Santori </h2>
+         <h2> 1/25 </h2>            ________> meant to update
+      </div>
+
+
+      <div>
+         <div>
+      
+            {bring in val}
+      
+         </div>
+
+          <div>
+            <li></li>
+            <li></li>
+            <li></li>
+          </div>  
+      </div> 
+   
+   </div>
+
+   <div> 
+      <button></button>
+      <button></button>
+   </div>
+
+</body>
